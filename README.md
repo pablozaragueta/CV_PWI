@@ -1,1 +1,1 @@
-Fake CV for a univeristy project made for learning CSS, HTML and web develop
+Fake CV for a univeristy project made for learning CSS, HTM, JavaScript and web develop
